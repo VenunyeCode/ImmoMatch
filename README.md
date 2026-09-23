@@ -1,4 +1,5 @@
 # ImmoMatch
+Conception et réalisation d’un site web responsive dédié à l’immobilier
 
 ImmoMatch est une application web de recherche immobilière qui classe les biens selon le profil de recherche de l'utilisateur et le temps de trajet réel vers ses adresses du quotidien (travail, études, famille), et non selon la seule proximité géographique. Chaque bien affiché est accompagné d'un score explicable, détaillé critère par critère.
 
